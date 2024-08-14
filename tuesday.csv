@@ -1,0 +1,7 @@
+﻿product name,category,price,stock quantity,supplier
+"""Refrigerator",Appliances,"50,000",40,home appliance 
+"Blender""",Appliances,15000,59,home appliance 
+Gaming Console,Electronics,70000,23,game center
+Smart Watch,Wearables,45000,220,game center
+Microwave Oven,Appliances,9000,21,home appliance 
+Electric Kettle,Appliances,2500,67,home appliance 
